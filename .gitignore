@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Django
+*.logW
+db.sqlite3
+media/
+
+# Environments
+profiles_project_venv/
+.env
+
+
+#Migrations 
+profiles/profiles_api/migrations
